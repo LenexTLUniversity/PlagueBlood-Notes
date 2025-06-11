@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "b2b60310a168557b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a797a58b545a9a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eb87ab89e430cab",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "42a450f494b47bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d50d5f75e534d3ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0fbc3ed89034015",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fc97a63780878a0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8ca502c543de0be6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "d25d7ba182ca87ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "fff8a57b28bf5a14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d5e76af5ed99768",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d034e6e7844e41c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bb91bff7fa61157a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "81483c251ad27cae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7eb87ab89e430cab",
+  "lastOpenFiles": [
+    "Story/Bosses/Main Bosses/Rot Wyrm.md",
+    "Story/Bosses/Main Bosses/Golden Judge.md",
+    "Story/Bosses/Main Bosses/Pestilent Harbinger.md",
+    "Story/Bosses/Optional Bosses/Bone Gnawer.md",
+    "Story/Bosses/Optional Bosses/Golden Jury.md",
+    "Story/Bosses/Optional Bosses/Sludge Beast.md",
+    "Story/Bosses/Optional Bosses/The Dockwright.md",
+    "Story/Bosses/Optional Bosses/The Withered Priest.md",
+    "Story/Bosses/Optional Bosses/The Broken Scribe.md",
+    "Story/Bosses/Optional Bosses/The Blight Prince.md",
+    "Story/Bosses/Optional Bosses/Gutter King.md",
+    "Story/Bosses/Optional Bosses/Graveclaw.md",
+    "Story/Bosses/Optional Bosses/Festerwight.md",
+    "Story/Bosses/Main Bosses/Wharfkin Tyrant.md",
+    "Story/Bosses/Main Bosses/The Plague King.md",
+    "Story/Bosses/Main Bosses/The Malefic Merchant.md",
+    "Story/Bosses/Main Bosses/The Lurking Burrower.md",
+    "Story/Bosses/Main Bosses/The Librarian.md",
+    "Story/Bosses/Main Bosses/Scourgemaw.md",
+    "Story/Bosses/Main Bosses/Beast of Rot.md",
+    "Story/Bosses/Hidden Bosses/The Plague.md",
+    "Story/Locations/Main Areas/Saint Beric's Close.md",
+    "Story/Locations/Main Areas/The Archives.md",
+    "Story/Locations/Sub Areas/Alchemical Sanctum.md",
+    "Story/Locations/Sub Areas/Catacombs.md",
+    "Story/Bosses/Bosses.md",
+    "Mechanics/Player/Abilities/Combat",
+    "Mechanics/Player/Abilities/Movement",
+    "Mechanics/Player/Resources",
+    "Mechanics/Player/Abilities",
+    "Mechanics/Player/Systems",
+    "Story/Locations/Sub Areas",
+    "Story/Bosses/Hidden Bosses",
+    "Story/Bosses/Optional Bosses",
+    "Story/Bosses/Main Bosses",
+    "Story/Bosses"
+  ]
+}
