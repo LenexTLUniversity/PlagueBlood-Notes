@@ -11,14 +11,10 @@
             "id": "7eb87ab89e430cab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story/Story & Backstories/The Games Story.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Games Story"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -167,7 +163,9 @@
   },
   "active": "7eb87ab89e430cab",
   "lastOpenFiles": [
-    "PlagueBlood Icon.png",
+    "Story/Story & Backstories/The Games Story.md",
+    "Images",
+    "Images/PlagueBlood Icon.png",
     "Story/Bosses/Hidden Bosses/The Plague.md",
     "test/hello.md",
     "test",
@@ -201,7 +199,6 @@
     "Mechanics/Player/Systems",
     "Story/Locations/Sub Areas",
     "Story/Bosses/Hidden Bosses",
-    "Story/Bosses/Optional Bosses",
-    "Story/Bosses/Main Bosses"
+    "Story/Bosses/Optional Bosses"
   ]
 }
