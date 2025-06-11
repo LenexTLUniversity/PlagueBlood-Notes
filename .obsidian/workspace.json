@@ -165,8 +165,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eb87ab89e430cab",
+  "active": "d0fbc3ed89034015",
   "lastOpenFiles": [
+    "test",
     "Story/Bosses/Main Bosses/Rot Wyrm.md",
     "Story/Bosses/Main Bosses/Golden Judge.md",
     "Story/Bosses/Main Bosses/Pestilent Harbinger.md",
@@ -192,7 +193,6 @@
     "Story/Locations/Main Areas/The Archives.md",
     "Story/Locations/Sub Areas/Alchemical Sanctum.md",
     "Story/Locations/Sub Areas/Catacombs.md",
-    "Story/Bosses/Bosses.md",
     "Mechanics/Player/Abilities/Combat",
     "Mechanics/Player/Abilities/Movement",
     "Mechanics/Player/Resources",
