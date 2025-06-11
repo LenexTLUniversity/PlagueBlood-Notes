@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story/Bosses/Hidden Bosses/The Plague.md",
+                "file": "Story/Story & Backstories/The Games Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Plague"
+              "title": "The Games Story"
             }
           }
         ]
@@ -165,10 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0fbc3ed89034015",
+  "active": "7eb87ab89e430cab",
   "lastOpenFiles": [
-    "test/hello.md",
+    "PlagueBlood Icon.png",
     "Story/Bosses/Hidden Bosses/The Plague.md",
+    "test/hello.md",
     "test",
     "Story/Bosses/Main Bosses/Rot Wyrm.md",
     "Story/Bosses/Main Bosses/Golden Judge.md",
@@ -193,7 +194,6 @@
     "Story/Locations/Main Areas/Saint Beric's Close.md",
     "Story/Locations/Main Areas/The Archives.md",
     "Story/Locations/Sub Areas/Alchemical Sanctum.md",
-    "Story/Locations/Sub Areas/Catacombs.md",
     "Mechanics/Player/Abilities/Combat",
     "Mechanics/Player/Abilities/Movement",
     "Mechanics/Player/Resources",

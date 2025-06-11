@@ -1,4 +1,7 @@
 
+![[PlagueBlood Icon.png]]
+
+
 # Summary:
 
 The game takes place in Europe, 1348, England.
