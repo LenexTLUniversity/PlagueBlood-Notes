@@ -2,7 +2,7 @@
 
 Hidden Bosses:
 
-- [[The Plague]]
+- [[Plague Mother]]
 
 
 Main Bosses:
