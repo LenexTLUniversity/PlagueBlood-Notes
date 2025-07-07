@@ -12,6 +12,8 @@ Wyrmheath is the name of the city PlagueBlood takes place in, and is split into 
 - [[The Burrows]]
 - [[Wyrmheath Castle]]
 - [[The Plagues Womb]]
+- [[Wyrmheath Ironpress]]
+- [[The Bellgrave]]
 
 
 # Progression Order
