@@ -11,10 +11,14 @@
             "id": "7eb87ab89e430cab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Story/Story & Backstories/The World of PlagueBlood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The World of PlagueBlood"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 247.5
+    "width": 269.5
   },
   "right": {
     "id": "d25d7ba182ca87ac",
@@ -161,39 +165,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0fbc3ed89034015",
+  "active": "7eb87ab89e430cab",
   "lastOpenFiles": [
-    "Story/Bosses/Hidden Bosses/Plague Mother.md",
-    "Story/Bosses/Main Bosses/Beast of Rot.md",
-    "Story/Bosses/Main Bosses/Saint Mabel.md",
-    "Story/Bosses/Main Bosses/Matron of Soot.md",
-    "Story/Bosses/Optional Bosses/The Witch.md",
-    "Story/Bosses/Main Bosses/Golden Judge.md",
+    "Story/Story & Backstories/The Games Story.md",
+    "Story/Story & Backstories/The World of PlagueBlood.md",
     "Story/Locations/Main Areas/Golden Courthouse.md",
     "Story/Locations/Main Areas/The Grand Market.md",
     "Story/Locations/Main Areas/The Pit.md",
-    "Story/Locations/Main Areas/The Pit (Lower Section).md",
+    "Story/Locations/Main Areas/Rotting Slums.md",
+    "Story/Locations/Main Areas/The Archives.md",
+    "Story/Locations/Main Areas/Saint Beric's Close.md",
+    "Mechanics/Player/Systems/Symptoms.md",
+    "Mechanics/Player/Abilities/Combat/Blooming Spine.md",
+    "Mechanics/Player/Abilities/Combat/Collapsing Abdomen.md",
+    "Mechanics/Player/Abilities/Combat/Plague Burst.md",
+    "Mechanics/Player/Abilities/Combat/Plague Surge.md",
+    "Mechanics/Player/Abilities/Movement/Tendril Grasp.md",
+    "Mechanics/Player/Abilities/Movement/Rupturing Leap.md",
+    "Mechanics/Player/Abilities/Movement/Leech Grip.md",
+    "Story/Locations/Main Areas/Ratchet's Row.md",
+    "Story/Locations/Main Areas/Wyrmheath Castle.md",
     "Story/Locations/Main Areas/The Plagues Womb.md",
-    "Images/The Grand Market - Lower Area.png",
-    "Images/The Grand Market - Upper Area.png",
-    "Story/Story & Backstories/The Games Story.md",
-    "Images",
-    "Images/PlagueBlood Icon.png",
-    "test/hello.md",
-    "test",
-    "Story/Bosses/Main Bosses/Rot Wyrm.md",
-    "Story/Bosses/Main Bosses/Pestilent Harbinger.md",
-    "Story/Bosses/Optional Bosses/Bone Gnawer.md",
-    "Story/Bosses/Optional Bosses/Golden Jury.md",
-    "Story/Bosses/Optional Bosses/Sludge Beast.md",
-    "Story/Bosses/Optional Bosses/The Dockwright.md",
+    "Story/Locations/Main Areas/The Pit (Lower Section).md",
+    "Story/Locations/Main Areas/The Drains.md",
     "Story/Bosses/Optional Bosses/The Withered Priest.md",
+    "Story/Bosses/Optional Bosses/The Witch.md",
+    "Story/Bosses/Optional Bosses/The Dockwright.md",
     "Story/Bosses/Optional Bosses/The Broken Scribe.md",
     "Story/Bosses/Optional Bosses/The Blight Prince.md",
-    "Story/Bosses/Optional Bosses/Gutter King.md",
-    "Story/Bosses/Optional Bosses/Graveclaw.md",
-    "Story/Bosses/Optional Bosses/Festerwight.md",
-    "Story/Bosses/Main Bosses/Wharfkin Tyrant.md",
+    "Images/The Grand Market - Lower Area.png",
+    "Images/The Grand Market - Upper Area.png",
+    "Images",
+    "Images/PlagueBlood Icon.png",
+    "test",
     "Mechanics/Player/Abilities/Combat",
     "Mechanics/Player/Abilities/Movement",
     "Mechanics/Player/Resources",

@@ -8,7 +8,6 @@ A semi-organic mass fused into walls or floors - tendrils pulse faintly like ner
 - Rest / Save Location 
 - Set Checkpoint for where you are
 - Manage [[Symptoms ]]
-- Spend Blight in the [[Undervein System]] to unlock more things
 - Recover health
 
 

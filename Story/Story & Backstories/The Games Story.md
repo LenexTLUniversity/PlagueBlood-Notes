@@ -14,6 +14,7 @@ You start the game waking up on a pile of corpses, and only later on find out th
 
 You begin to wander through the world, encountering different [[All NPCs]], locations, normal enemies, and [[Bosses]] with different goals, and discover the reason for the plague and why it was created.
 
+[[The World of PlagueBlood]]
 
 
 Main Storyline:
