@@ -2,7 +2,7 @@
 
 # 🌍 Setting Overview
 
-PlagueBlood takes place in an alternative version of England, 1348, during a distorted and accelerated Black Death, worsened by secret human experimentation and divine manipulation.
+PlagueBlood takes place in an alternative version of England, 1765, during a distorted and accelerated Black Death, worsened by secret human experimentation and divine manipulation.
 
 The city of Wyrmheath, once a minor trade hub, is now a festering tomb after the plague reached it and completely overran it - walled off from the outside world and forgotten by all but its cursed inhabitants.
 
