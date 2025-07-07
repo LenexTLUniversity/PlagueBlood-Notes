@@ -19,4 +19,5 @@ You begin to wander through the world, encountering different [[All NPCs]], loca
 
 Main Storyline:
 
+And then the Player encounters [[Beast of Rot]]
 

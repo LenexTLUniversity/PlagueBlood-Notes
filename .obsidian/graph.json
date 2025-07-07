@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Story/Locations  ",
@@ -53,6 +53,6 @@
   "repelStrength": 20,
   "linkStrength": 0.505208333333333,
   "linkDistance": 500,
-  "scale": 0.0939292790284771,
+  "scale": 0.1846232622585965,
   "close": false
 }
