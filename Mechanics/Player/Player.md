@@ -13,6 +13,10 @@
 [[Plague Burst]]
 [[Plague Surge]]
 
+[[Hostnode]]
+[[Mechanics/Player/Systems/Spinal Insertion System]]
+[[Symptoms]]
+
 
 
 
