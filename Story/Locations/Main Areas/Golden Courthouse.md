@@ -5,7 +5,7 @@ Inside, judicial benches are overturned, gallows hang empty, and judges' robes r
 
 However, infected that get too close gather here unnaturally - almost reverently. Someone is still holding trials. But not for the living.
 
-
+![[Golden Courthouse.png]]
 
 
 # Design Questions:

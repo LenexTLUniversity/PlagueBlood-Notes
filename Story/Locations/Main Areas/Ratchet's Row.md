@@ -6,7 +6,7 @@ The scent of brine mixes with rot. Empty  boats drift without oars, bumping gent
 Here, the infection came by water - sailors turned first. Some say you can still hear them rowing, long after the fog swallowed them.
 
 
-
+![[Ratchets Row.png]]
 
 # Design Questions:
 

@@ -8,7 +8,7 @@ Children's toys lie where they were dropped. Doors hang open, but nothing human 
 The poor died first, and those that managed to survive somehow, beg for death.
 
 
-
+![[Rotting Slums.png]]
 
 # Design Questions:
 
